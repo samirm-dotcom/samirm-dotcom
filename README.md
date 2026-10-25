@@ -12,6 +12,12 @@ I build with AI coding tools (Claude Code). I write the requirements, rules and 
 
 **[RFP Response Generator](https://github.com/samirm-dotcom/rfp-response-generator)**: turns past winning proposals and a new RFP into a cited first-draft proposal. It's built to show gaps and conflicting claims instead of inventing answers.
 
+**[Service-Business Quote Agent](https://github.com/samirm-dotcom/service-business-quote-agent)**: turns an HVAC estimate request into a human-approved quote. Prices come only from the business's own history, and if the data doesn't support a firm price, it refuses instead of guessing.
+
+**[Customer Feedback & Review Invitation Platform](https://github.com/samirm-dotcom/customer-feedback-review-platform)**: collects customer feedback and sends neutral review invitations, with consent checks, evidence-linked insights and human-approved replies.
+
+<sub>Showcase repositories: screenshots, architecture and short code excerpts. Full source is private and available on request.</sub>
+
 #### How I work
 
 - Start from the business problem and the people who own the decision
@@ -20,4 +26,4 @@ I build with AI coding tools (Claude Code). I write the requirements, rules and 
 
 #### Contact
 
-[LinkedIn](https://www.linkedin.com/in/samirmammadli) · based in Poland
+[LinkedIn](https://www.linkedin.com/in/samirmammadli) · [Portfolio](https://samir-mammadli.vercel.app) · based in Poland
